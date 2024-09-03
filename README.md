@@ -1,4 +1,4 @@
-The files I used for this thesis can be found in games/preflop/, games/plo/, algorithms/plo_hs.cc
+The files I used for this thesis can be found in open_spiel/games/preflop/, open_spiel/games/plo/, open_spiel/algorithms/plo_hs.cc
 The results are in the Results folder
 
 # OpenSpiel: A Framework for Reinforcement Learning in Games
