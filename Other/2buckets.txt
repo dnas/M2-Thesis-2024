@@ -1,0 +1,426 @@
+9 95.429
+19 40.0728
+29 26.6787
+39 20.6833
+49 17.3025
+59 14.9016
+69 13.0341
+79 11.5676
+89 10.6695
+99 9.90505
+109 9.06865
+119 8.14107
+129 7.34379
+139 6.77722
+149 6.24164
+159 5.75108
+169 4.84528
+179 4.34971
+189 4.08519
+199 3.86529
+209 3.63795
+219 3.4249
+229 3.27501
+239 3.15649
+249 3.11014
+259 3.06356
+269 3.00038
+279 2.94518
+289 2.91276
+299 2.87638
+309 2.87015
+319 2.84067
+329 2.73312
+339 2.58228
+349 2.48068
+359 2.40367
+369 2.33269
+379 2.26639
+389 2.20627
+399 2.21614
+409 2.17808
+419 2.05468
+429 1.85852
+439 1.79424
+449 1.74881
+459 1.73072
+469 1.72669
+479 1.68471
+489 1.6197
+499 1.62506
+509 1.63376
+519 1.63506
+529 1.63216
+539 1.65726
+549 1.66846
+559 1.65528
+569 1.64541
+579 1.63814
+589 1.61435
+599 1.58702
+609 1.54785
+619 1.42239
+629 1.35188
+639 1.34356
+649 1.33809
+659 1.33267
+669 1.32704
+679 1.30531
+689 1.28192
+699 1.27754
+709 1.26856
+719 1.26538
+729 1.27663
+739 1.27603
+749 1.25566
+759 1.19776
+769 1.10821
+779 1.08565
+789 1.08082
+799 1.07396
+809 1.06846
+819 1.07076
+829 1.05922
+839 1.04638
+849 1.03294
+859 1.01241
+869 1.00042
+879 0.995486
+889 0.997072
+899 1.00534
+909 1.02542
+919 1.01927
+929 0.955625
+939 0.880273
+949 0.875564
+959 0.87998
+969 0.835235
+979 0.807138
+989 0.816723
+999 0.825617
+1009 0.833691
+1019 0.849976
+1029 0.868382
+1039 0.886092
+1049 0.896803
+1059 0.885394
+1069 0.87095
+1079 0.884381
+1089 0.901591
+1099 0.887941
+1109 0.86307
+1119 0.8611
+1129 0.863392
+1139 0.851437
+1149 0.806123
+1159 0.776393
+1169 0.777382
+1179 0.778528
+1189 0.782412
+1199 0.783352
+1209 0.780391
+1219 0.769858
+1229 0.734185
+1239 0.710879
+1249 0.695678
+1259 0.693376
+1269 0.688648
+1279 0.690631
+1289 0.712543
+1299 0.727039
+1309 0.720825
+1319 0.727351
+1329 0.730102
+1339 0.703237
+1349 0.674428
+1359 0.651032
+1369 0.646784
+1379 0.651539
+1389 0.655579
+1399 0.660675
+1409 0.681993
+1419 0.691884
+1429 0.68302
+1439 0.670369
+1449 0.670426
+1459 0.671419
+1469 0.66557
+1479 0.639617
+1489 0.608185
+1499 0.597661
+1509 0.599946
+1519 0.601072
+1529 0.601192
+1539 0.601019
+1549 0.600224
+1559 0.597013
+1569 0.592003
+1579 0.589266
+1589 0.588041
+1599 0.588462
+1609 0.583538
+1619 0.575486
+1629 0.558245
+1639 0.538751
+1649 0.518094
+1659 0.501544
+1669 0.488798
+1679 0.477861
+1689 0.467201
+1699 0.456678
+1709 0.446405
+1719 0.436384
+1729 0.426479
+1739 0.41814
+1749 0.411939
+1759 0.408915
+1769 0.415365
+1779 0.423357
+1789 0.434536
+1799 0.43823
+1809 0.441508
+1819 0.441643
+1829 0.437454
+1839 0.426305
+1849 0.423595
+1859 0.427895
+1869 0.437685
+1879 0.449801
+1889 0.472397
+1899 0.49318
+1909 0.510833
+1919 0.519271
+1929 0.513649
+1939 0.493044
+1949 0.472387
+1959 0.455491
+1969 0.444341
+1979 0.449375
+1989 0.459423
+1999 0.462289
+[Observer: 0][Private pre: 0][Private post: -1][Round 0][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 4][Round1: ]:  0=0.00650336 2=0.982584 4=0.0109125
+[Observer: 0][Private pre: 0][Private post: -1][Round 0][Player: 0][Pot: 15][Stack: 995 990][Round0: ][Round1: ]:  0=0.00810051 2=0.702622 4=0.289278
+[Observer: 0][Private pre: 0][Private post: -1][Round 0][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 4][Round1: ]:  0=0.0557154 2=0.944285
+[Observer: 0][Private pre: 0][Private post: -1][Round 0][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 4][Round1: ]:  0=0.00815535 2=0.991135 4=0.00070958
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 2][Round1: 1 3 4]:  0=0.0355058 2=0.0278523 4=0.936642
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 4 2][Round1: 3]:  0=0.244576 2=0.0196676 4=0.735756
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 2][Round1: 1 3 4]:  0=0.994965 2=0.000392786 4=0.00464207
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 4 2][Round1: 3]:  0=0.349202 2=0.00597053 4=0.644827
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 1][Round1: 1 3 4]:  0=0.999622 2=5.99926e-05 4=0.000318031
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 4 2][Round1: 3]:  0=0.999787 2=0.000186812 4=2.65921e-05
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 2][Round1: 3]:  0=0.998673 2=0.00113505 4=0.000192049
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: 1]:  1=0.333203 3=0.666797
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: 1]:  1=0.917065 3=0.0829345
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 4 2][Round1: 1 3 4]:  0=0.0486984 2=0.951302
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 4 2][Round1: 1 3 4]:  0=0.012475 2=0.987525
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: 1]:  1=0.34101 3=0.65899
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 1][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 2][Round1: 1 3 4]:  0=0.998535 2=0.000163127 4=0.00130149
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 2][Round1: 3]:  0=0.442351 2=0.520506 4=0.0371436
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 2][Round1: 1 3 4]:  0=0.97293 2=0.00105668 4=0.0260128
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 4 2][Round1: 3]:  0=0.999566 2=0.000369145 4=6.5151e-05
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 1][Round1: 3]:  0=0.15693 2=0.842991 4=7.9069e-05
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: 1]:  1=0.697102 3=0.302898
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: 1]:  1=0.647314 3=0.352686
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: 1]:  1=0.918493 3=0.0815073
+[Observer: 0][Private pre: 0][Private post: 0][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: 1]:  1=0.901419 3=0.0985815
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 2][Round1: 3 4 4]:  0=1.32967e-05 2=0.999987
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 2][Round1: 1 3 4]:  0=0.0196676 2=0.0196676 4=0.960665
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 4 2][Round1: 3]:  0=0.0196676 2=0.0196676 4=0.960665
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 2][Round1: 3 4 4]:  0=0.000109213 2=0.999891
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 2][Round1: 1 3 4]:  0=3.25787e-05 2=3.25787e-05 4=0.999935
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 4 2][Round1: 3]:  0=0.00586631 2=0.255813 4=0.738321
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 1][Round1: 1 3 4]:  0=3.95392e-05 2=3.95392e-05 4=0.999921
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 4 2][Round1: 3]:  0=2.65921e-05 2=2.65921e-05 4=0.999947
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 2][Round1: 3]:  0=0.000192049 2=0.120564 4=0.879244
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: 1]:  1=0.0557154 3=0.944285
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: 1]:  1=9.77266e-05 3=0.999902
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 2][Round1: 3 4 4]:  0=0.0200621 2=0.979938
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 4 2][Round1: 1 3 4]:  0=0.0151991 2=0.984801
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 2][Round1: 3 4 4]:  0=3.25798e-05 2=0.999967
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 4 2][Round1: 1 3 4]:  0=0.00443879 2=0.995561
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: 1]:  1=0.000118603 3=0.999881
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 1][Round1: 3 4 4]:  0=3.95407e-05 2=0.99996
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 2][Round1: 1 3 4]:  0=1.32966e-05 2=1.32966e-05 4=0.999973
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 2][Round1: 3]:  0=0.0371436 2=0.0371436 4=0.925713
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 2][Round1: 1 3 4]:  0=9.60522e-05 2=0.0305753 4=0.969329
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 4 2][Round1: 3]:  0=6.5151e-05 2=6.5151e-05 4=0.99987
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 1][Round1: 3]:  0=7.9069e-05 2=7.9069e-05 4=0.999842
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: 1]:  1=0.0295014 3=0.970499
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: 1]:  1=0.00879947 3=0.991201
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: 1]:  1=3.98881e-05 3=0.99996
+[Observer: 0][Private pre: 0][Private post: 1][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: 1]:  1=0.000288074 3=0.999712
+[Observer: 0][Private pre: 1][Private post: -1][Round 0][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 4][Round1: ]:  0=9.9667e-05 2=0.137337 4=0.862563
+[Observer: 0][Private pre: 1][Private post: -1][Round 0][Player: 0][Pot: 15][Stack: 995 990][Round0: ][Round1: ]:  0=0.000166667 2=0.254502 4=0.745331
+[Observer: 0][Private pre: 1][Private post: -1][Round 0][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 4][Round1: ]:  0=0.00133425 2=0.998666
+[Observer: 0][Private pre: 1][Private post: -1][Round 0][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 4][Round1: ]:  0=0.000218291 2=0.917979 4=0.0818028
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 2][Round1: 1 3 4]:  0=0.195059 2=0.00312098 4=0.80182
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 4 2][Round1: 3]:  0=0.859861 2=0.000445345 4=0.139693
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 2][Round1: 1 3 4]:  0=0.975248 2=0.00104219 4=0.0237097
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 4 2][Round1: 3]:  0=0.998268 2=2.99463e-05 4=0.00170251
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 1][Round1: 1 3 4]:  0=0.995651 2=0.000197991 4=0.00415148
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 4 2][Round1: 3]:  0=0.999255 2=0.000665967 4=7.92652e-05
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 2][Round1: 3]:  0=0.999494 2=0.000431146 4=7.4538e-05
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: 1]:  1=0.857497 3=0.142503
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: 1]:  1=0.913206 3=0.0867945
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 4 2][Round1: 1 3 4]:  0=0.00177323 2=0.998227
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 2][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 4 2][Round1: 1 3 4]:  0=0.00022748 2=0.999773
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: 1]:  1=0.348006 3=0.651994
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 1][Round1: 3 4 4]:  0=0.5 2=0.5
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 2][Round1: 1 3 4]:  0=0.999316 2=0.000342181 4=0.000342181
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 2][Round1: 3]:  0=0.739573 2=0.259537 4=0.000889502
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 2][Round1: 1 3 4]:  0=0.996889 2=0.000454871 4=0.00265606
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 4 2][Round1: 3]:  0=0.997157 2=0.0026618 4=0.000180913
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 1][Round1: 3]:  0=0.1642 2=0.835582 4=0.000218291
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: 1]:  1=0.811638 3=0.188362
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: 1]:  1=0.905031 3=0.0949693
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: 1]:  1=0.884176 3=0.115824
+[Observer: 0][Private pre: 1][Private post: 0][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: 1]:  1=0.91283 3=0.0871704
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 2][Round1: 3 4 4]:  0=3.96389e-05 2=0.99996
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 2][Round1: 1 3 4]:  0=0.000445345 2=0.000445345 4=0.999109
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 2 4 4 4 2][Round1: 3]:  0=0.000445345 2=0.000445345 4=0.999109
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 2][Round1: 3 4 4]:  0=4.23783e-05 2=0.999958
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 2][Round1: 1 3 4]:  0=9.0481e-05 2=9.0481e-05 4=0.999819
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1080][Stack: 730 190][Round0: 4 4 4 2][Round1: 3]:  0=2.88049e-05 2=0.254431 4=0.74554
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 1][Round1: 1 3 4]:  0=0.000109181 2=0.000109181 4=0.999782
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 2 4 2][Round1: 3]:  0=7.92652e-05 2=7.92652e-05 4=0.999841
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 120][Stack: 970 910][Round0: 4 2][Round1: 3]:  0=7.4538e-05 2=0.120489 4=0.879436
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: 1]:  1=0.00133425 3=0.998666
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: 1]:  1=0.000271369 3=0.999729
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 2][Round1: 3 4 4]:  0=0.000445544 2=0.999554
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 2 4 4 4 2][Round1: 1 3 4]:  0=0.000334232 2=0.999666
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 2][Round1: 3 4 4]:  0=9.04892e-05 2=0.99991
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 1810][Stack: 190 0][Round0: 4 4 4 2][Round1: 1 3 4]:  0=2.16046e-05 2=0.999978
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: 1]:  1=0.000327437 3=0.999673
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 1][Round1: 3 4 4]:  0=0.000109193 2=0.999891
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 2][Round1: 1 3 4]:  0=3.96373e-05 2=3.96373e-05 4=0.999921
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 2 4 4 2][Round1: 3]:  0=0.000889502 2=0.000889502 4=0.998221
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 2][Round1: 1 3 4]:  0=3.72732e-05 2=0.0305219 4=0.969441
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 360][Stack: 910 730][Round0: 4 4 2][Round1: 3]:  0=0.000180913 2=0.000180913 4=0.999638
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 40][Stack: 990 970][Round0: 2 1][Round1: 3]:  0=0.000218291 2=0.000218291 4=0.999563
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: 1]:  1=0.000668018 3=0.999332
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: 1]:  1=4.32073e-05 3=0.999957
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: 1]:  1=0.000118898 3=0.999881
+[Observer: 0][Private pre: 1][Private post: 1][Round 1][Player: 0][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: 1]:  1=0.000111807 3=0.999888
+[Observer: 1][Private pre: 0][Private post: -1][Round 0][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 4][Round1: ]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: -1][Round 0][Player: 1][Pot: 20][Stack: 990 990][Round0: 2][Round1: ]:  1=0.9995 4=0.0005
+[Observer: 1][Private pre: 0][Private post: -1][Round 0][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 4][Round1: ]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: -1][Round 0][Player: 1][Pot: 40][Stack: 970 990][Round0: 4][Round1: ]:  0=0.0150981 2=0.984735 4=0.000166667
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 1][Round1: 3 4]:  0=0.995076 2=0.0024622 4=0.0024622
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 4 2][Round1: 1 3]:  0=0.999492 2=0.000479914 4=2.82108e-05
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: ]:  1=0.966138 3=0.033862
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 1][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 40][Stack: 970 990][Round0: 2 1][Round1: 1 3]:  0=0.980208 2=0.0197059 4=8.62972e-05
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 0][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: ]:  1=0.999915 3=8.46251e-05
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 2][Round1: 1 3 4 4]:  0=1.97716e-05 2=0.99998
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 1][Round1: 3 4]:  0=0.0019906 2=0.499005 4=0.499005
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 4 2][Round1: 1 3]:  0=3.95401e-05 2=3.95401e-05 4=0.999921
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: ]:  1=0.958116 3=0.0418843
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 1][Round1: 1 3 4 4]:  0=4.35349e-05 2=0.999956
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 2][Round1: 3 4]:  0=9.84279e-05 2=0.499951 4=0.499951
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 2][Round1: 1 3]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 40][Stack: 970 990][Round0: 2 1][Round1: 1 3]:  0=8.70198e-05 2=0.000488163 4=0.999425
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: ]:  1=0.5 3=0.5
+[Observer: 1][Private pre: 0][Private post: 1][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: ]:  1=0.713411 3=0.286589
+[Observer: 1][Private pre: 1][Private post: -1][Round 0][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 4][Round1: ]:  0=0.000175181 2=0.894096 4=0.105729
+[Observer: 1][Private pre: 1][Private post: -1][Round 0][Player: 1][Pot: 20][Stack: 990 990][Round0: 2][Round1: ]:  1=0.0486054 4=0.951395
+[Observer: 1][Private pre: 1][Private post: -1][Round 0][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 4][Round1: ]:  0=0.000362166 2=0.999638
+[Observer: 1][Private pre: 1][Private post: -1][Round 0][Player: 1][Pot: 40][Stack: 970 990][Round0: 4][Round1: ]:  0=0.00362245 2=0.766281 4=0.230097
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 4 2][Round1: 1 3]:  0=0.999447 2=0.000276377 4=0.000276377
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 2][Round1: 3 4]:  0=0.996376 2=0.0018119 4=0.0018119
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 4 2][Round1: 1 3]:  0=0.999879 2=6.03939e-05 4=6.03939e-05
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 1][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 2][Round1: 1 3]:  0=0.995317 2=0.00387991 4=0.000802805
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 4 2][Round1: 1 3]:  0=0.999147 2=0.000816289 4=3.62541e-05
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: ]:  1=0.999902 3=9.79657e-05
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: ]:  1=0.837819 3=0.162181
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 2][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 4 2][Round1: 3 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: ]:  1=0.994857 3=0.00514346
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 1][Round1: 1 3 4 4]:  0=0.5 2=0.5
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 2][Round1: 3 4]:  0=0.999803 2=9.83178e-05 4=9.83178e-05
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 4 2][Round1: 1 3]:  0=0.999614 2=0.000353228 4=3.26584e-05
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 2][Round1: 3 4]:  0=0.333333 2=0.333333 4=0.333333
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 2][Round1: 1 3]:  0=0.999299 2=0.000350739 4=0.000350739
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 40][Stack: 970 990][Round0: 2 1][Round1: 1 3]:  0=0.923571 2=0.074706 4=0.00172335
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: ]:  1=0.999172 3=0.000828445
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: ]:  1=0.999819 3=0.000181149
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: ]:  1=0.109106 3=0.890894
+[Observer: 1][Private pre: 1][Private post: 0][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: ]:  1=0.999891 3=0.00010875
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 2][Round1: 1 3 4 4]:  0=0.000943763 2=0.999056
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 2][Round1: 3 4]:  0=4.901e-05 2=0.499975 4=0.499975
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 2 4 4 4 2][Round1: 1 3]:  0=0.000371115 2=0.000371115 4=0.999258
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 2][Round1: 1 3 4 4]:  0=2.56529e-05 2=0.999974
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 2][Round1: 3 4]:  0=0.000456712 2=0.499772 4=0.499772
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1080][Stack: 190 730][Round0: 4 4 4 2][Round1: 1 3]:  0=0.000137442 2=0.000137442 4=0.999725
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 1][Round1: 3 4]:  0=0.014832 2=0.492584 4=0.492584
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 2 4 2][Round1: 1 3]:  0=0.00188043 2=0.00188043 4=0.996239
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 120][Stack: 910 970][Round0: 4 2][Round1: 1 3]:  0=5.13006e-05 2=5.13006e-05 4=0.999897
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 2 4 4 2][Round1: ]:  1=0.333702 3=0.666298
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 180][Stack: 910 910][Round0: 4 4 2][Round1: ]:  1=0.356584 3=0.643416
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 2][Round1: 1 3 4 4]:  0=4.89383e-05 2=0.999951
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 2 4 4 4 2][Round1: 3 4]:  0=0.00161872 2=0.998381
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 2][Round1: 1 3 4 4]:  0=0.00041306 2=0.999587
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 1810][Stack: 0 190][Round0: 4 4 4 2][Round1: 3 4]:  0=0.000161548 2=0.999838
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 20][Stack: 990 990][Round0: 2 1][Round1: ]:  1=0.884406 3=0.115594
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 1][Round1: 1 3 4 4]:  0=0.000979312 2=0.999021
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 2][Round1: 3 4]:  0=9.187e-05 2=0.499954 4=0.499954
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 2 4 4 2][Round1: 1 3]:  0=9.78574e-05 2=9.78574e-05 4=0.999804
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 2][Round1: 3 4]:  0=0.000123561 2=0.499938 4=0.499938
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 360][Stack: 730 910][Round0: 4 4 2][Round1: 1 3]:  0=0.000824085 2=0.00163857 4=0.997537
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 40][Stack: 970 990][Round0: 2 1][Round1: 1 3]:  0=0.00193857 2=0.0082979 4=0.989764
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 2 4 4 4 2][Round1: ]:  1=0.744105 3=0.255895
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 540][Stack: 730 730][Round0: 4 4 4 2][Round1: ]:  1=0.439334 3=0.560666
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 2 4 2][Round1: ]:  1=0.0465802 3=0.95342
+[Observer: 1][Private pre: 1][Private post: 1][Round 1][Player: 1][Pot: 60][Stack: 970 970][Round0: 4 2][Round1: ]:  1=0.706623 3=0.293377
+
+0.434367, -0.434367

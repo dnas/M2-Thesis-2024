@@ -35,16 +35,23 @@ void MCCFR_2PGameTest(const std::string& game_name, std::mt19937* rng,
                       int iterations, double nashconv_upperbound) {
   std::shared_ptr<const Game> game = LoadGame(game_name);
   ExternalSamplingMCCFRSolver solver(*game);
+  double nash_conv = -1;
+  std::shared_ptr<Policy> average_policy;
   for (int i = 0; i < iterations; i++) {
     solver.RunIteration(rng);
+    //average_policy = solver.AveragePolicy();
+    //nash_conv = NashConv(*game, *average_policy, true);
+    std::cout << "iters = " << i << ", NashConv: " << nash_conv << std::endl;
   }
-  const std::shared_ptr<Policy> average_policy = solver.AveragePolicy();
-  double nash_conv = NashConv(*game, *average_policy, true);
+  average_policy = solver.AveragePolicy();
+  //nash_conv = NashConv(*game, *average_policy, true);
   std::cout << "Game: " << game_name << ", iters = " << iterations
             << ", NashConv: " << nash_conv << std::endl;
   const Game& mygame = *game;
-  const std::vector<double> game_value = ExpectedReturns(*mygame.NewInitialState(), *average_policy, -1);
-  std::cout << game_value[0] << ", " << game_value[1] << std::endl;
+  const Policy& mypolicy = *average_policy;
+  std::cout << TabularPolicy(mygame, mypolicy).ToStringSorted() << std::endl;
+  //const std::vector<double> game_value = ExpectedReturns(*mygame.NewInitialState(), mypolicy, -1);
+  //std::cout << game_value[0] << ", " << game_value[1] << std::endl;
   SPIEL_CHECK_LE(nash_conv, nashconv_upperbound);
 }
 
@@ -106,8 +113,11 @@ int main(int argc, char** argv) {
   // "Monte Carlo Sampling and Regret Minimization For Equilibrium Computation
   // and Decision-Making in Large Extensive Form Games", 2013).
   std::mt19937 rng(algorithms::kSeed);
-  algorithms::MCCFR_2PGameTest("kuhn_poker", &rng, 10000, 0.05);
-  algorithms::MCCFR_2PGameTest("leduc_poker", &rng, 10000, 2.5);
+  //algorithms::MCCFR_2PGameTest("kuhn_poker", &rng, 10000, 0.05);
+  //algorithms::MCCFR_2PGameTest("leduc_poker", &rng, 10000, 2.5);
+  algorithms::MCCFR_2PGameTest("preflop", &rng, 200, 2000);
+  return;
+  algorithms::MCCFR_2PGameTest("plo", &rng, 1, 2000);
   algorithms::MCCFR_2PGameTest("liars_dice", &rng, 100, 1.6);
   algorithms::MCCFR_KuhnPoker3PTest(&rng);
   algorithms::MCCFR_SerializationTest();

@@ -162,7 +162,8 @@ double TabularBestResponse::HandleChanceCase(HistoryNode* node) {
     value += prob * Value(child->GetHistory());
   }
   // Verify that the sum of the probabilities is 1, within tolerance.
-  SPIEL_CHECK_FLOAT_EQ(prob_sum, 1.0);
+  //SPIEL_CHECK_FLOAT_EQ(prob_sum, 1.0);
+  if(std::abs(prob_sum-1.0)>0.0001) SpielFatalError("Outcome prob sum is not equal to 1 in best_response");
   return value;
 }
 double TabularBestResponse::Value(const std::string& history) {

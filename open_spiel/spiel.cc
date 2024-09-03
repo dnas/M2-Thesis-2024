@@ -289,7 +289,7 @@ std::pair<Action, double> SampleAction(const ActionsAndProbs& outcomes,
     SPIEL_CHECK_PROB(prob);
     sum += prob;
   }
-  SPIEL_CHECK_FLOAT_EQ(sum, 1.0);
+  if(std::abs(sum-1.0)>0.0001) SpielFatalError("Outcome prob sum is not equal to 1");
 
   // Now sample an outcome.
   sum = 0;

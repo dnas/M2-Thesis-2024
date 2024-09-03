@@ -81,6 +81,22 @@ class Card{
     }
 };
 
+bool comp(std::vector<Card> a, std::vector<Card> b){
+  std::sort(a.begin(), a.end()); std::sort(b.begin(), b.end());
+  int i = 0;
+  while(i<(int)a.size()&&i<(int)b.size()&&a[i].rank==b[i].rank) i++;
+  if(i<(int)a.size()&&i<(int)b.size()) return a[i].rank<b[i].rank;
+  return a.size()<b.size();
+}
+
+bool comp_eq(std::vector<Card> a, std::vector<Card> b){
+  std::sort(a.begin(), a.end()); std::sort(b.begin(), b.end());
+  int i = 0;
+  while(i<(int)a.size()&&i<(int)b.size()&&a[i].rank==b[i].rank) i++;
+  if(i<(int)a.size()&&i<(int)b.size()) return false;
+  return a.size()==b.size();
+}
+
 class Hole{
   public:
     std::vector<Card> cards;
@@ -95,6 +111,10 @@ class Hole{
     }
 		bool operator !=(const Hole& hole2) const{
 			return !(*this==hole2);
+    }
+    bool operator <(const Hole& hole2) const{
+      for(int i=0;i<4;i++) if(cards[i]!=hole2.cards[i]) return cards[i]<hole2.cards[i];
+      return false;
     }
 		std::string ToString() const{
 			return "["+cards[0].ToString()+","+cards[1].ToString()+","+cards[2].ToString()+","+cards[3].ToString()+"]";
@@ -127,11 +147,11 @@ class HandScore{
 inline const Card kInvalidCard{-10000, -10000};
 inline const Hole kInvalidHole{kInvalidCard, kInvalidCard, kInvalidCard, kInvalidCard};
 inline constexpr int kDefaultPlayers = 2;
-inline constexpr int kNumSuits = 4;
 inline constexpr int kDefaultStacks = 1000;
-inline constexpr int default_deck_size = 26;
-inline const std::vector<double> bet_sizes = {0.33, 0.66, 1};
-inline const std::vector<double> raise_sizes = {0.33, 1};
+inline constexpr int default_deck_size = 52;
+inline const std::vector<double> bet_sizes = {1};
+inline const std::vector<double> raise_sizes = {1};
+bool small_game = false; // whether to stop play after flop
 
 // Number of info states in the 2P game with default params.
 inline constexpr int kNumInfoStates = 10000000;
@@ -144,7 +164,7 @@ enum ActionType { kF = 0, kX = 1, kC = 2, kB = 3, kR = 4};
 class PloState : public State {
  public:
   explicit PloState(std::shared_ptr<const Game> game,
-                      bool action_mapping, bool suit_isomorphism);
+                      bool suit_isomorphism, bool game_abstraction);
 
   Player CurrentPlayer() const override;
   std::string ActionToString(Player player, Action move) const override;
@@ -215,8 +235,13 @@ class PloState : public State {
   void SequenceAppendMove(int move);
   void Ante(Player player, int amount);
   void SetPrivate(Player player, Action move);
+  void DealPublic(int strt, int nr_cards, Action move);
   HandScore GetScoreFrom5(std::vector<Card> cards) const;
   HandScore RankHand(Player player) const;
+  std::vector<std::vector<Card>> GetIso(std::vector<std::vector<Card>> classes) const;
+  std::vector<std::vector<Card>> GetClasses(std::vector<int> inds, bool to_sort=true) const;
+  int GetCardIndex(Card c) const;
+  void UpdateSuitClasses(std::vector<Card> cs, std::vector<std::vector<int>> my_suit_classes);
 
   // Fields sets to bad/invalid values. Use Game::NewInitialState().
   Player cur_player_;
@@ -232,6 +257,7 @@ class PloState : public State {
   int cur_max_bet_; //Max in cur_round_bet_
   bool action_is_closed_; //Whether the action for the current round has closed
   int last_to_act_; //Index of the last player who can act (BB preflop, BU postflop)
+  int nr_raises_; //number of bets/raises in the current round
 
   // Is this player a winner? Indexed by pid.
   std::vector<bool> winner_;
@@ -247,10 +273,24 @@ class PloState : public State {
   // Sequence of actions for each round. Needed to report information state.
   std::vector<int> round0_sequence_;
   std::vector<int> round1_sequence_;
+  std::vector<int> round2_sequence_;
+  std::vector<int> round3_sequence_;
   // Players cannot distinguish between cards of different suits with the same
   // rank.
   bool suit_isomorphism_;
+  std::vector<std::vector<int>> suit_classes_; //Current vector of classes of indistinguishable suits, plus a counter for each class.
+  //for example, we might have the pairs {{0,3}, {1,2}}, meaning that suits 0,3 are equivalent, and same for 1,2.
+  std::vector<std::vector<int>> suit_classes_flop_; //A snapshot of the above vector just before the flop is dealt.
+  //This is important because the turn may join new classes again
+
   bool game_abstraction_;
+  //ABSTRACTION
+  int nr_flops_;
+  int nr_turns_;
+  int nr_rivers_;
+  int group_by_; //how many starting hole hands are grouped together
+  int nr_holes_;
+  int max_raises_; //how many raises are possible per round
 };
 
 class PloGame : public Game {
@@ -289,7 +329,14 @@ class PloGame : public Game {
   // Players cannot distinguish between cards of different suits with the same
   // rank.
   bool suit_isomorphism_;
+
   bool game_abstraction_;
+  //ABSTRACTION
+  int nr_flops_;
+  int nr_turns_;
+  int nr_rivers_;
+  int group_by_; //how many starting hole hands are grouped together
+  int max_raises_; //how many raises are possible per round
 };
 
 }  // namespace plo
